@@ -233,6 +233,8 @@ Die öffentlich sichtbaren Repositories zeigen daher nur einen Teil unserer Entw
 
 ## 🌱 Open Source
 
+Entdecke [Tarn Browser](https://tarnbrowser.com/), unseren quelloffenen Webbrowser mit Tastatursteuerung und integriertem Werbe- und Tracking-Schutz. [Quellcode und Mitmachen](https://github.com/Quavon-dev/tarn-browser).
+
 Wo es sinnvoll ist, veröffentlichen wir Tools, Libraries und technische Projekte für die Entwickler-Community.
 
 Kundenspezifischer Code, produktionsrelevante Infrastruktur, Zugangsdaten und sensible interne Systeme bleiben selbstverständlich privat.

@@ -233,6 +233,8 @@ Por eso, los repositorios públicos solo muestran una parte de nuestro trabajo d
 
 ## 🌱 Open Source
 
+Prueba [Tarn Browser](https://tarnbrowser.com/), nuestro navegador web de código abierto con atajos de teclado y bloqueo integrado de anuncios y rastreadores. [Código fuente y contribuciones](https://github.com/Quavon-dev/tarn-browser).
+
 Cuando tiene sentido, publicamos herramientas, librerías y proyectos técnicos para la comunidad de desarrolladores.
 
 El código específico de clientes, la infraestructura de producción, las credenciales y los sistemas internos sensibles permanecen privados.
