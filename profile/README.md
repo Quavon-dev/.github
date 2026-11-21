@@ -233,6 +233,8 @@ Public repositories therefore represent only a small part of the software develo
 
 ## 🌱 Open Source
 
+Try [Tarn Browser](https://tarnbrowser.com/), our open-source, keyboard-first web browser with built-in ad and tracker blocking. [Source and contributions](https://github.com/Quavon-dev/tarn-browser).
+
 Where it makes sense, we publish tools, libraries and technical projects for the wider developer community.
 
 Customer-specific code, production infrastructure, credentials and sensitive internal systems remain private.
